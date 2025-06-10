@@ -16,3 +16,14 @@
 - I<ins>'ll get</ins> a job - I<em>'m hoping to secure</em> a job *in this field*
 - this or <ins>next</ins> year - this *year or next*
 - depending on <ins>my discipline</ins> - depending on *how well I do* 
+
+- after <ins>seeing on channel's name</ins> - *from the name of the channel*  
+- you can <ins>notice</ins> - you can *probably guess that*  
+- I <ins>want to spend my time</ins> on learning English - I<em>'m focusing</em> on learning English *at the moment*  
+- I'll <ins>learn it passively by</ins> writing posts <ins>about</ins> topics - I'll learn *by doing* it passively<em>,</em> by writing posts *on different* topics  
+- This channel <ins>is not only considering</ins> <strong>something</strong> <ins>or</ins> <strong>something</strong> <ins>but</ins> <strong>something</strong> - This channel<em>'s about more than just</em> <strong>something</strong> *and* <strong>something</strong>. <em>It'll also cover</em> <strong>something</strong>  
+- <ins>So,</ins> I <ins>thought</ins> about creating a channel <ins>a while</ins> - I<em>'ve been thinking</em> about creating a channel *for* a while  
+- However, <ins>this</ins> idea <ins>someone</ins> <ins>can</ins> follow you <ins>scared</ins> me - *But the* idea *that* someone *could* follow you *really* scared me  
+- someone <ins>can</ins> <ins>check</ins> your life.. - someone could check up on your life..  
+- it's <ins>a big deal</ins> to <ins>spare</ins> my thoughts with someone because I <ins>love it</ins> - it's *important* to *share* my thoughts with someone because I love *doing* it  
+- I <ins>enjoy listening</ins> to <strong>something</strong> - I *like hearing about* <strong>something</strong>
